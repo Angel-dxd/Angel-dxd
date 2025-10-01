@@ -157,9 +157,6 @@
 </a>
 </div>
 
-
-## Credit: [BHARAT V](https://linktr.ee/bharatv)
-
 <img src="https://views.whatilearened.today/views/github/bindian0509/bindian0509.svg?cache=remove"/>
 
 
