@@ -10,6 +10,12 @@ I enjoy building practical applications, designing database-driven systems, and 
 
 Currently exploring data engineering, AI-powered applications, and modern software development workflows.
 
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,angular,react,python,mysql,mongodb,docker,git,linux&perline=6" alt="Technology stack" />
+</p>
+
 ## Featured Projects
 
 ### [Boutique Market](https://github.com/Angel-dxd/boutique-market)
