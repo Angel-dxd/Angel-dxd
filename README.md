@@ -1,19 +1,27 @@
 
 
-# Angel Xavier Pons Márquez
+<h1 align="center">Hi, I'm Angel 👋</h1>
 
-**Junior Software Developer | Full-Stack Development | AI & Big Data**
+<h3 align="center">
+  Software Developer · AI & Big Data
+</h3>
 
-I am a software developer based in Valencia, Spain, with a background in Multiplatform Application Development (DAM) and a current focus on Artificial Intelligence and Big Data.
+<p align="center">
+  Valencia, Spain · Building practical software solutions
+</p>
 
-I enjoy building practical applications, designing database-driven systems, and solving problems through clean, maintainable code.
-
-Currently exploring data engineering, AI-powered applications, and modern software development workflows.
+<p align="center">
+  <a href="https://github.com/Angel-dxd?tab=repositories">Projects</a>
+  ·
+  <a href="https://github.com/Angel-dxd">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,angular,react,python,mysql,mongodb,docker,git,linux&perline=6" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,angular,react,python,mysql,mongodb,docker,git,linux,&perline=6" alt="Technology stack" />
 </p>
 
 ## Featured Projects
